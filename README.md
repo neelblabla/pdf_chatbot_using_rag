@@ -1,4 +1,4 @@
-# pdf_chatbot_using_rag
+# Builiding a PDF chatbot (Q&A agent) using Retrievel Augmented Generation
 
 Tinkering with **LlamaIndex** packages and **Mistral-7B-Instruct-v0.1** LLM on Google-Colab to build a smart agent (chatbot)
 
