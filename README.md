@@ -4,4 +4,4 @@ Tinkering with **LlamaIndex** packages and **Mistral-7B-Instruct-v0.1** LLM on G
 
 Enjoy the complete video tutorial here! - https://youtu.be/fckpHf5Qjxo
 
-![RAG](https://github.com/user-attachments/assets/cd819146-8477-4a2c-911b-16ac29bfb0e3)
+![RAG](https://github.com/user-attachments/assets/12a882da-01d9-475b-afb8-a0fd4d4c0d3b)
